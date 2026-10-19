@@ -1,0 +1,29 @@
+{
+  "name": "playwright-codgen",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "playwright test",
+    "test:ui": "playwright-codgen --ui",
+    "test:headed": "playwright test --headed"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Internet-Sciences/dataclenz-playwright.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Internet-Sciences/dataclenz-playwright/issues"
+  },
+  "homepage": "https://github.com/Internet-Sciences/dataclenz-playwright#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.60.0",
+    "@types/node": "^25.3.0"
+  },
+  "dependencies": {
+    "dotenv": "^17.3.1"
+  }
+}

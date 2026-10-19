@@ -1,5 +1,5 @@
 {
-  "name": "playwright-codgen",
+  "name": "playwright-testing",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -10,15 +10,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Internet-Sciences/dataclenz-playwright.git"
+    "url": "git+https://github.com/shikhasontakke-testing/Apihelper-testing/blob/main.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Internet-Sciences/dataclenz-playwright/issues"
+    "url": "https://github.com/shikhasontakke-testing/Apihelper-testing/issues"
   },
-  "homepage": "https://github.com/Internet-Sciences/dataclenz-playwright#readme",
+  "homepage": "https://github.com/shikhasontakke-testing/Apihelper-testing#readme",
   "devDependencies": {
     "@playwright/test": "^1.60.0",
     "@types/node": "^25.3.0"
